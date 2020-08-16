@@ -11,7 +11,7 @@ for weapon in weapons:
     print(f'{weapon.name}: ({weapon.damage} dmg, {weapon.value} gold)')
 ```
 
-Example CSV:
+Example `weapons.csv`:
 ```csv
 #version=1
 #url=https://pastebin.com/raw/DAGHFB7E
